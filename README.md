@@ -11,5 +11,7 @@ In this step, I configured the virtual machine generation while creating my Wind
 ![image alt](https://github.com/tavoych/Project/blob/2a7b98b8d57174ee00ab1d37e26e82a1bb9fa476/Selecting%20the%20Virtual%20Machine%20Generation.png)
 In this step, I configured the startup memory for the virtual machine in Hyper-V. I allocated 4096 MB (4 GB) of RAM and enabled Dynamic Memory, allowing Hyper-V to automatically adjust memory usage based on the VM’s needs. This ensures efficient resource management and stable performance
 ![image alt](https://github.com/tavoych/Project/blob/a66108e3f6a662cd8cd049ba50270aa4f21f40e1/Assigning%20Memory.png)
+In this step, I configured the virtual machine’s network adapter to connect to my pre-created Virtual Switch Network. This allows the VM to communicate with other machines in the lab environment
+![image alt]()
 
 
