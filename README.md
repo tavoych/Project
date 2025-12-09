@@ -8,5 +8,5 @@ The screenshot displays the New Virtual Machine Wizard within Hyper-V Manager, w
 Here, I assigned a name to the virtual machine (Windows Server)  This step is part of preparing the virtual environment to install Windows Server
 ![image alt](https://github.com/tavoych/Project/blob/02160089e1996b1f743c43ed95c1b8086fca1472/Windows%20Server.png)
 In this step, I configured the virtual machine generation while creating my Windows Server VM in Hyper-V. I selected Generation 2 to enable modern virtualization features such as UEFI-based boot and improved security. This selection is required for newer 64-bit operating systems, including Windows Server editions used for Active Directory Domain Service
-![image alt]()
+![image alt](https://github.com/tavoych/Project/blob/2a7b98b8d57174ee00ab1d37e26e82a1bb9fa476/Selecting%20the%20Virtual%20Machine%20Generation.png)
 
