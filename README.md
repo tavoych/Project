@@ -5,5 +5,5 @@ This screenshot shows the initial configuration stage of my Active Directory hom
 
 The screenshot displays the New Virtual Machine Wizard within Hyper-V Manager, where I began provisioning a virtual machine that will host the Active Directory Domain Services (AD DS) role. This step initializes the VM creation process prior to installing Windows Server and configuring the domain environment
 ![image alt](https://github.com/tavoych/Project/blob/32a0d7d5c6d0ac5deb6e38fcfac6dd323408a7ea/Before%20You%20Begin.png)
-Here, I assigned a name to the virtual machine (Windows Server) and selected the storage location where the VM files will be saved. This step is part of preparing the virtual environment to install Windows Serve
+Here, I assigned a name to the virtual machine (Windows Server)  This step is part of preparing the virtual environment to install Windows Serve
 ![image alt](https://github.com/tavoych/Project/blob/02160089e1996b1f743c43ed95c1b8086fca1472/Windows%20Server.png)
