@@ -10,6 +10,6 @@ Here, I assigned a name to the virtual machine (Windows Server)  This step is pa
 In this step, I configured the virtual machine generation while creating my Windows Server VM in Hyper-V. I selected Generation 2 to enable modern virtualization features such as UEFI-based boot and improved security. This selection is required for newer 64-bit operating systems, including Windows Server editions used for Active Directory Domain Service
 ![image alt](https://github.com/tavoych/Project/blob/2a7b98b8d57174ee00ab1d37e26e82a1bb9fa476/Selecting%20the%20Virtual%20Machine%20Generation.png)
 In this step, I configured the startup memory for the virtual machine in Hyper-V. I allocated 4096 MB (4 GB) of RAM and enabled Dynamic Memory, allowing Hyper-V to automatically adjust memory usage based on the VM’s needs. This ensures efficient resource management and stable performance
-![image alt]()
+![image alt](https://github.com/tavoych/Project/blob/a66108e3f6a662cd8cd049ba50270aa4f21f40e1/Assigning%20Memory.png)
 
 
